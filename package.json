@@ -1,6 +1,6 @@
 {
   "name": "sensor_tmp006",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A node.js-module for the TMP006 temperature sensor",
   "main": "tmp006.js",
   "dependencies": {
